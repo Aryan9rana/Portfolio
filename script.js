@@ -83,6 +83,16 @@ const projectsArray = [
     sourceLink: 'https://github.com/Aryan9rana/Blood-donation-website',
     demoLink: 'https://blood-donation-portal.onrender.com/',
   },
+  {
+    name: 'Mobee- Movie Watchlist',
+    description: 'This web app allows users to securely sign up and log in using Firebase authentication. It integrates with The Movie DB API to fetch and display movie information. Users can browse movies, add them to their watchlist, and keep track of what they’ve watched. The app provides a seamless experience for managing and viewing personal movie collections.',
+    imageLink: 'images/project5.jpg',
+    technologies: ['Firebase', 'css', 'React'],
+    company: 'React',
+    year: 'July 2024',
+    sourceLink: 'https://github.com/Aryan9rana/Mobee-Movie-Watchlist',
+    demoLink: 'https://mobee.vercel.app/',
+  },
 ];
 
 (() => {
